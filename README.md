@@ -1,6 +1,8 @@
-# PluralKit Web
+# OmniKit Web
 
-A web interface for @xSke's [PluralKit](https://github.com/xSke/Pluralkit)
+A feebkle a attempt at further discord fuckery by @chloekburroughs.
+
+Based on PluralKit WeW by @xSke's [PluralKit](https://github.com/xSke/Pluralkit)
 
 ## Deploying Locally
 
